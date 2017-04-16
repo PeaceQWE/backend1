@@ -1,0 +1,23 @@
+{
+  "name": "walker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zz.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeaceQWE/backend1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeaceQWE/backend1/issues"
+  },
+  "homepage": "https://github.com/PeaceQWE/backend1#readme"
+}
